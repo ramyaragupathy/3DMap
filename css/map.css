@@ -1,0 +1,21 @@
+
+
+#map {
+    position: absolute;
+    right: 50%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+ 
+   
+}
+
+#three-d {
+    position: relative;
+    left: 50%;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    
+
+}
